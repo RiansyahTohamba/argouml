@@ -41,6 +41,7 @@ package org.argouml.util;
 import javax.swing.filechooser.FileFilter;
 
 import org.argouml.i18n.Translator;
+// import org.argouml.util.isolated.Translator;
 
 /** This class handles the the various file extensions.
  * It's not clear whether all of these are supported

@@ -67,7 +67,9 @@ import org.argouml.application.helpers.ResourceLoaderWrapper;
 import org.argouml.i18n.Translator;
 import org.tigris.gef.base.Editor;
 import org.tigris.gef.base.Globals;
-import org.tigris.swidgets.PopupButton;
+// import org.tigris.swidgets.PopupButton;
+// sudah dipindakan ke toolbar
+import org.tigris.toolbar.toolbutton
 
 /**
  * A button that can be used to change the zoom magnification of the current

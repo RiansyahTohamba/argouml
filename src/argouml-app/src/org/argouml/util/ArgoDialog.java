@@ -41,8 +41,9 @@ package org.argouml.util;
 import java.awt.Frame;
 
 import javax.swing.AbstractButton;
-
 import org.argouml.i18n.Translator;
+// create dummies
+// import org.argouml.util.isolated.Translator;
 import org.tigris.swidgets.Dialog;
 
 /**

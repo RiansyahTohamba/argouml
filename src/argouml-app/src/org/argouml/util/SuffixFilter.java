@@ -59,13 +59,12 @@ public class SuffixFilter extends FileFilter {
      */
     public SuffixFilter(String suffix, String d) {
         suffixes = new String[] {suffix};
-	desc = d;
+	    desc = d;
     }
 
     /**
      * Construct a filter for an array of suffixes
-     *
-     * @param s the suffixes string
+     *  @param s the suffixes string
      * @param d the file type description
      */
     public SuffixFilter(String[] s, String d) {

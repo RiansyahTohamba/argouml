@@ -42,9 +42,9 @@ import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-
-import org.argouml.model.Model;
-
+// ganti dengan versi Isolasi
+//import org.argouml.model.Model;
+//import org.argouml.util.isolated.Model;
 /**
  * An instance of this class is supposed to be attached to an instance
  * of another class to uniquely identify it. It is intended that such

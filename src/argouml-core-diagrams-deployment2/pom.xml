@@ -50,6 +50,14 @@
       <scope>compile</scope>
     </dependency>
 
+    <!-- https://mvnrepository.com/artifact/org.eclipse/gef -->
+    <!-- why still error ?-->
+
+    <dependency>
+      <groupId>org.eclipse</groupId>
+      <artifactId>gef</artifactId>
+      <version>3.2.100-v20070620</version>
+    </dependency>
     <dependency>
       <groupId>commons-logging</groupId>
       <artifactId>commons-logging</artifactId>

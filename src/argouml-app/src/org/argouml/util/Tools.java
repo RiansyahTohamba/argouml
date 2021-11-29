@@ -47,9 +47,9 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 import javax.xml.parsers.SAXParserFactory;
-
 import org.argouml.i18n.Translator;
-
+//versi isolated
+// import org.argouml.util.isolated.Translator;
 /**
  * Some tools thrown together...
  *
